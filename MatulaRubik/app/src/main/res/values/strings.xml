@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MatulaRubik</string>
+
+    <string name="title_activity_acerca">Acerca</string>
+    <string name="title_activity_main">MatulaRubik</string>
+    <string name="navigation_drawer_open">Menu</string>
+    <string name="navigation_drawer_close">Cerrar Menu</string>
+    <string name="nav_header_title">MatrulaRubik</string>
+    <string name="nav_header_subtitle">Bitseller</string>
+    <string name="nav_header_desc">Encabezado</string>
+    <string name="action_settings">Configuración</string>
+</resources>
